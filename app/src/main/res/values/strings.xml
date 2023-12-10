@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Rinat_Kasymov_3_7</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="blue_neighbourhood">blue_neighbourhood</string>
+    <string name="talk_me_down">talk_me_down</string>
+    <string name="now_playing">now_playing</string>
+    <string name="name_of_the_song">name_of_the_song</string>
+</resources>
